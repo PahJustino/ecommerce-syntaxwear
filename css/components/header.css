@@ -28,7 +28,7 @@
 .nav-center a,
 .nav-right a {
     font-size: 1.25rem;
-	color: #333333
+	color: #333333;
 	text-decoration: none;
 	transition: color 0.3s;
 }
@@ -49,6 +49,11 @@
 
 .nav-right a:hover img {
 	opacity: 0.7;
+}
+
+li {
+	list-style: none;
+	display: flex;
 }
 
 .nav-container{
@@ -126,5 +131,6 @@
 	.menu-toggle:checked ~ .nav-container{
 		right: 0;
 	} 
+	
 	
 }
