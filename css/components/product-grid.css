@@ -55,14 +55,15 @@
     color: #EDEDED;
     font-size: 1.25rem;
     font-weight: 400;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .card-subtitle{
     color: #EDEDED;
+	text-align: center;
     font-size: 1.5rem;
     font-weight: 400;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .cta-group{
